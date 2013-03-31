@@ -32,7 +32,7 @@ set hlsearch
 map S :so ~/.vimperatorrc<CR>
 
 " limit the highth of line
-set maxitems=1
+set maxitems=10
 
 " Quick Open
 noremap gr :tabopen https://translate.google.com/?hl=en&tab=wT
