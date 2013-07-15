@@ -12,6 +12,8 @@ The configuration about vimperator and other plugins
 ### For Linux
 - Copy .vimperatorrc to $HOME
 
+## Goagent + AutoProxy:
+Details has been upload to: https://github.com/woainvzu/My_Goagent_Marslo
 ##Apperance
 FT DeepDark 5.6
 
