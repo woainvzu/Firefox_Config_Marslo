@@ -13,7 +13,7 @@ The configuration about vimperator and other plugins
 - Copy .vimperatorrc to $HOME
 
 ## Goagent + AutoProxy:
-Details has been upload to: https://github.com/woainvzu/My_Goagent_Marslo
+Details has been uploaded to: https://github.com/woainvzu/My_Goagent_Marslo
 ##Apperance
 FT DeepDark 5.6
 
