@@ -5,10 +5,9 @@ The configuration about vimperator and other plugins
 
 ##Usage
 ### For Windows:
-- Copy _vimperatorrc_win to %HOMEPATH%      
-    - WIN7: %HOMEPATH% would be C:\Users\<UserName>        
-    - XP:%HOMEPATH% would be C:\Document and Settings\<UserName>    
-
+- Copy _vimperatorrc_win to %HOMEPATH%
+    - WIN7: %HOMEPATH% would be C:\Users\\\<UserName>
+    - XP:%HOMEPATH% would be C:\Document and Settings\\\<UserName>
 ### For Linux
 - Copy .vimperatorrc to $HOME
 
